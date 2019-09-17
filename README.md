@@ -7,7 +7,7 @@ To begin, a loop will print a prompt (consisting of a "prefix," which is initial
 ## Project Goals
 
  
-## v0.8 
+## v0.8.2 
 ### **Features/commands implemented:**
 1) *which* - Searches the path for executable, prints the first instance that is found in the path
 2) *where* - Searches the path for executable, prints every instance that is found in the path.
